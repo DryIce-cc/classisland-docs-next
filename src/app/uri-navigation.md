@@ -58,6 +58,7 @@ classisland://app/settings/{page}/[...]
 | 窗口 | window | 内置 |
 | 天气 | weather | 内置 |
 | 更新 | update | 内置 |
+| 自动化 | automation | 内置 |
 | 隐私 | privacy | 内置 |
 | 插件 | classisland.plugins | 扩展 |
 | 关于 ClassIsland | about | 关于 |
